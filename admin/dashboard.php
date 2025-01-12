@@ -126,7 +126,7 @@ $newbookings=mysqli_num_rows($query3);
               <div class="icon">
                 <i class="ion ion-document"></i>
               </div>
-              <a href="new-bookigs.php" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+              <a href="new-bookigs.php" class="small-box-footer">More information <i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>
           <!-- ./col -->
