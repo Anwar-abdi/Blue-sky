@@ -1,5 +1,4 @@
 <?php session_start();
-//error_reporting(0);
 // Database Connection
 include('includes/config.php');
 //Validating Session

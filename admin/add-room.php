@@ -7,8 +7,7 @@ if(strlen($_SESSION['aid'])==0)
 header('location:index.php');
 }
 else{
-
-
+  
 if(isset($_POST['submit']))
 {
  $rtitle=$_POST['roomtitle'];

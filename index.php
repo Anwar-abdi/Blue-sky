@@ -8,9 +8,9 @@ include_once('includes/config.php');
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <meta name="description" content="Book meeting rooms and conference facilities online" />
+    <meta name="description" content="Book meeting rooms and facilities online" />
     <meta name="author" content="" />
-    <title>Meeting and Conference Booking System</title>
+    <title>Meeting  Booking System</title>
     <!-- Favicon-->
     <link rel="icon" type="image/x-icon" href="assets/moon.png" />
     <!-- Bootstrap icons-->
@@ -117,7 +117,7 @@ include_once('includes/config.php');
     <header class="hero-section py-5">
         <div class="container px-4 px-lg-5 my-5">
             <div class="text-center text-white">
-                <h1 class="display-4 fw-bolder text-shadow">Meeting and Conference Booking System</h1>
+                <h1 class="display-4 fw-bolder text-shadow">Meeting Booking System</h1>
                 <p class="lead fw-normal text-white-50 mb-4">Find and book the perfect space for your next meeting or conference</p>
                 <a href="#rooms" class="cta-button btn btn-lg">View Available Rooms</a>
             </div>
