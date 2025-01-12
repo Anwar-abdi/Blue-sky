@@ -208,7 +208,7 @@ include_once('includes/config.php');
                             <div class="stat-box p-3">
                                 <i class="bi bi-star fs-3"></i>
                                 <h3 class="mt-2">4.9/5</h3>
-                                <p class="text-white-50">Client Rating</p>
+                                <p class="text-white-50">Client Ratings</p>
                             </div>
                         </div>
                     </div>
